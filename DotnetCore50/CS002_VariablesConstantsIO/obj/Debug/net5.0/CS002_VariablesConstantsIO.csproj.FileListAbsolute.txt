@@ -1,0 +1,15 @@
+/Users/admin/Documents/DotnetCore50/CS002_VariablesConstantsIO/obj/Debug/net5.0/CS002_VariablesConstantsIO.csproj.AssemblyReference.cache
+/Users/admin/Documents/DotnetCore50/CS002_VariablesConstantsIO/obj/Debug/net5.0/CS002_VariablesConstantsIO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/DotnetCore50/CS002_VariablesConstantsIO/obj/Debug/net5.0/CS002_VariablesConstantsIO.AssemblyInfoInputs.cache
+/Users/admin/Documents/DotnetCore50/CS002_VariablesConstantsIO/obj/Debug/net5.0/CS002_VariablesConstantsIO.AssemblyInfo.cs
+/Users/admin/Documents/DotnetCore50/CS002_VariablesConstantsIO/obj/Debug/net5.0/CS002_VariablesConstantsIO.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/DotnetCore50/CS002_VariablesConstantsIO/bin/Debug/net5.0/CS002_VariablesConstantsIO.deps.json
+/Users/admin/Documents/DotnetCore50/CS002_VariablesConstantsIO/bin/Debug/net5.0/CS002_VariablesConstantsIO.runtimeconfig.json
+/Users/admin/Documents/DotnetCore50/CS002_VariablesConstantsIO/bin/Debug/net5.0/CS002_VariablesConstantsIO.runtimeconfig.dev.json
+/Users/admin/Documents/DotnetCore50/CS002_VariablesConstantsIO/bin/Debug/net5.0/CS002_VariablesConstantsIO.dll
+/Users/admin/Documents/DotnetCore50/CS002_VariablesConstantsIO/bin/Debug/net5.0/ref/CS002_VariablesConstantsIO.dll
+/Users/admin/Documents/DotnetCore50/CS002_VariablesConstantsIO/bin/Debug/net5.0/CS002_VariablesConstantsIO.pdb
+/Users/admin/Documents/DotnetCore50/CS002_VariablesConstantsIO/obj/Debug/net5.0/CS002_VariablesConstantsIO.dll
+/Users/admin/Documents/DotnetCore50/CS002_VariablesConstantsIO/obj/Debug/net5.0/ref/CS002_VariablesConstantsIO.dll
+/Users/admin/Documents/DotnetCore50/CS002_VariablesConstantsIO/obj/Debug/net5.0/CS002_VariablesConstantsIO.pdb
+/Users/admin/Documents/DotnetCore50/CS002_VariablesConstantsIO/obj/Debug/net5.0/CS002_VariablesConstantsIO.genruntimeconfig.cache

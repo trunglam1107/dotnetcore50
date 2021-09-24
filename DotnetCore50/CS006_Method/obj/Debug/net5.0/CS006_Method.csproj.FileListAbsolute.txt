@@ -1,0 +1,15 @@
+/Users/admin/Documents/DotnetCore50/CS006_Method/bin/Debug/net5.0/CS006_Method.deps.json
+/Users/admin/Documents/DotnetCore50/CS006_Method/bin/Debug/net5.0/CS006_Method.runtimeconfig.json
+/Users/admin/Documents/DotnetCore50/CS006_Method/bin/Debug/net5.0/CS006_Method.runtimeconfig.dev.json
+/Users/admin/Documents/DotnetCore50/CS006_Method/bin/Debug/net5.0/CS006_Method.dll
+/Users/admin/Documents/DotnetCore50/CS006_Method/bin/Debug/net5.0/ref/CS006_Method.dll
+/Users/admin/Documents/DotnetCore50/CS006_Method/bin/Debug/net5.0/CS006_Method.pdb
+/Users/admin/Documents/DotnetCore50/CS006_Method/obj/Debug/net5.0/CS006_Method.csproj.AssemblyReference.cache
+/Users/admin/Documents/DotnetCore50/CS006_Method/obj/Debug/net5.0/CS006_Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/DotnetCore50/CS006_Method/obj/Debug/net5.0/CS006_Method.AssemblyInfoInputs.cache
+/Users/admin/Documents/DotnetCore50/CS006_Method/obj/Debug/net5.0/CS006_Method.AssemblyInfo.cs
+/Users/admin/Documents/DotnetCore50/CS006_Method/obj/Debug/net5.0/CS006_Method.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/DotnetCore50/CS006_Method/obj/Debug/net5.0/CS006_Method.dll
+/Users/admin/Documents/DotnetCore50/CS006_Method/obj/Debug/net5.0/ref/CS006_Method.dll
+/Users/admin/Documents/DotnetCore50/CS006_Method/obj/Debug/net5.0/CS006_Method.pdb
+/Users/admin/Documents/DotnetCore50/CS006_Method/obj/Debug/net5.0/CS006_Method.genruntimeconfig.cache

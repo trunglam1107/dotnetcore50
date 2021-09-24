@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ChuýenSoThanhChu/1.0.0": {
+        "runtime": {
+          "ChuýenSoThanhChu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChuýenSoThanhChu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

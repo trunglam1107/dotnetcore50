@@ -1,0 +1,4 @@
+/Users/admin/Documents/DotnetCore50/CS001/bin/Debug/net5.0/publish/CS001.dll
+/Users/admin/Documents/DotnetCore50/CS001/bin/Debug/net5.0/publish/CS001.deps.json
+/Users/admin/Documents/DotnetCore50/CS001/bin/Debug/net5.0/publish/CS001.runtimeconfig.json
+/Users/admin/Documents/DotnetCore50/CS001/bin/Debug/net5.0/publish/CS001.pdb

@@ -1,0 +1,15 @@
+/Users/admin/Documents/DotnetCore50/ChuýenSoThanhChu/bin/Debug/net5.0/ChuýenSoThanhChu.deps.json
+/Users/admin/Documents/DotnetCore50/ChuýenSoThanhChu/bin/Debug/net5.0/ChuýenSoThanhChu.runtimeconfig.json
+/Users/admin/Documents/DotnetCore50/ChuýenSoThanhChu/bin/Debug/net5.0/ChuýenSoThanhChu.runtimeconfig.dev.json
+/Users/admin/Documents/DotnetCore50/ChuýenSoThanhChu/bin/Debug/net5.0/ChuýenSoThanhChu.dll
+/Users/admin/Documents/DotnetCore50/ChuýenSoThanhChu/bin/Debug/net5.0/ref/ChuýenSoThanhChu.dll
+/Users/admin/Documents/DotnetCore50/ChuýenSoThanhChu/bin/Debug/net5.0/ChuýenSoThanhChu.pdb
+/Users/admin/Documents/DotnetCore50/ChuýenSoThanhChu/obj/Debug/net5.0/ChuýenSoThanhChu.csproj.AssemblyReference.cache
+/Users/admin/Documents/DotnetCore50/ChuýenSoThanhChu/obj/Debug/net5.0/ChuýenSoThanhChu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/DotnetCore50/ChuýenSoThanhChu/obj/Debug/net5.0/ChuýenSoThanhChu.AssemblyInfoInputs.cache
+/Users/admin/Documents/DotnetCore50/ChuýenSoThanhChu/obj/Debug/net5.0/ChuýenSoThanhChu.AssemblyInfo.cs
+/Users/admin/Documents/DotnetCore50/ChuýenSoThanhChu/obj/Debug/net5.0/ChuýenSoThanhChu.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/DotnetCore50/ChuýenSoThanhChu/obj/Debug/net5.0/ChuýenSoThanhChu.dll
+/Users/admin/Documents/DotnetCore50/ChuýenSoThanhChu/obj/Debug/net5.0/ref/ChuýenSoThanhChu.dll
+/Users/admin/Documents/DotnetCore50/ChuýenSoThanhChu/obj/Debug/net5.0/ChuýenSoThanhChu.pdb
+/Users/admin/Documents/DotnetCore50/ChuýenSoThanhChu/obj/Debug/net5.0/ChuýenSoThanhChu.genruntimeconfig.cache
